@@ -1,0 +1,54 @@
+baseURL: "https://example.org/"
+languageCode: en
+title: "R. Calixto — Notes & Ideas"
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  showToc: true
+  tocOpen: false
+  showBreadcrumbs: true
+  showWordCount: true
+  showReadingTime: true
+  showPostNavLinks: true
+  showCodeCopyButtons: true
+  comments: true
+  env: production
+  
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/rcalixto"
+    - name: telegram
+      url: "https://t.me/rcalixto"
+
+outputs:
+  home: [HTML, RSS, JSON]
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: search
+      name: 🔍 Search
+      url: /search/
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
