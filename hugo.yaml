@@ -1,7 +1,72 @@
 baseURL: "https://rcalixto.blog/"
-languageCode: en
 title: "R. Calixto — Notes & Ideas"
 theme: PaperMod
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    languageName: "English"
+    languageCode: en
+    weight: 1
+    title: "R. Calixto — Notes & Ideas"
+    params:
+      homeInfoParams:
+        Title: "Hi, I'm R. Calixto"
+        Content: |
+          Software architect and tech lead based in São Paulo. I run engineering at [**4Tech**](https://4techs.com.br/), where we build complex software for healthcare and other regulated industries.
+
+          This blog is where I think out loud — about architecture decisions, AI systems, leadership, and the lessons from shipping products that actually run in production. Not demos. Not theory for its own sake.
+    menu:
+      main:
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 30
+        - identifier: search
+          name: 🔍 Search
+          url: /search/
+          weight: 40
+
+  pt:
+    languageName: "Português"
+    languageCode: pt-br
+    weight: 2
+    title: "R. Calixto — Notas e Ideias"
+    params:
+      homeInfoParams:
+        Title: "Olá, eu sou o R. Calixto"
+        Content: |
+          Arquiteto de software e tech lead em São Paulo. Lidero a engenharia na [**4Tech**](https://4techs.com.br/), onde construímos software complexo para saúde e outros setores regulados.
+
+          Aqui penso em voz alta — sobre decisões de arquitetura, sistemas de IA, liderança e as lições de construir produtos que realmente rodam em produção. Nada de demos. Nada de teoria pela teoria.
+    menu:
+      main:
+        - identifier: posts
+          name: Posts
+          url: /pt/posts/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /pt/tags/
+          weight: 20
+        - identifier: about
+          name: Sobre
+          url: /pt/about/
+          weight: 30
+        - identifier: search
+          name: 🔍 Buscar
+          url: /pt/search/
+          weight: 40
 
 params:
   defaultTheme: dark
@@ -14,13 +79,7 @@ params:
   showCodeCopyButtons: true
   comments: true
   env: production
-
-  homeInfoParams:
-    Title: "Hi, I'm R. Calixto"
-    Content: |
-      Software architect and tech lead based in São Paulo. I run engineering at [**4Tech**](https://4techs.com.br/), where we build complex software for healthcare and other regulated industries.
-
-      This blog is where I think out loud — about architecture decisions, AI systems, leadership, and the lessons from shipping products that actually run in production. Not demos. Not theory for its own sake.
+  displayFullLangName: true
 
   assets:
     favicon: "/favicon.ico"
@@ -39,25 +98,6 @@ params:
 
 outputs:
   home: [HTML, RSS, JSON]
-
-menu:
-  main:
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 30
-    - identifier: search
-      name: 🔍 Search
-      url: /search/
-      weight: 40
 
 markup:
   goldmark:
