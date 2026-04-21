@@ -14,12 +14,19 @@ params:
   showCodeCopyButtons: true
   comments: true
   env: production
-  
+
+  homeInfoParams:
+    Title: "Hi, I'm R. Calixto"
+    Content: |
+      Software architect and tech lead based in São Paulo. I run engineering at [**4Tech**](https://4techs.com.br/), where we build complex software for healthcare and other regulated industries.
+
+      This blog is where I think out loud — about architecture decisions, AI systems, leadership, and the lessons from shipping products that actually run in production. Not demos. Not theory for its own sake.
+
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
-  
+
   socialIcons:
     - name: github
       url: "https://github.com/rcalixto"
