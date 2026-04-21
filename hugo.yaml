@@ -1,5 +1,5 @@
 baseURL: "https://rcalixto.blog/"
-title: "R. Calixto — Notes & Ideas"
+title: "R. Calixto"
 theme: PaperMod
 
 defaultContentLanguage: en
@@ -7,13 +7,13 @@ defaultContentLanguageInSubdir: false
 
 languages:
   en:
-    languageName: "English"
+    languageName: "En"
     languageCode: en
     weight: 1
-    title: "R. Calixto — Notes & Ideas"
+    title: "R. Calixto"
     params:
       homeInfoParams:
-        Title: "Hi, I'm R. Calixto"
+        Title: "Hi, I'm Robson Calixto"
         Content: |
           Software architect and tech lead based in São Paulo. I run engineering at [**4Tech**](https://4techs.com.br/), where we build complex software for healthcare and other regulated industries.
 
@@ -38,13 +38,13 @@ languages:
           weight: 40
 
   pt:
-    languageName: "Português"
+    languageName: "Pt"
     languageCode: pt-br
     weight: 2
-    title: "R. Calixto — Notas e Ideias"
+    title: "R. Calixto"
     params:
       homeInfoParams:
-        Title: "Olá, eu sou o R. Calixto"
+        Title: "Olá, eu sou o Robson Calixto"
         Content: |
           Arquiteto de software e tech lead em São Paulo. Lidero a engenharia na [**4Tech**](https://4techs.com.br/), onde construímos software complexo para saúde e outros setores regulados.
 
