@@ -29,9 +29,13 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/rcalixto"
-    - name: telegram
-      url: "https://t.me/rcalixto"
+      url: "https://github.com/robsoncalixto"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/r-calixto/"
+    - name: x
+      url: "https://x.com/robsoncaliixto"
+    - name: email
+      url: "mailto:robsoncaliixto@gmail.com"
 
 outputs:
   home: [HTML, RSS, JSON]
