@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git submodule *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git revert *)",
+      "Bash(dig +short rcalixto.blog A)",
+      "Bash(dig +short NS rcalixto.blog)",
+      "Bash(curl -sI --max-time 10 https://rcalixto.blog)",
+      "Bash(dig +short rcalixto.blog AAAA)",
+      "Bash(dig +short rcalixto.blog CAA)",
+      "Bash(curl -sI --max-time 10 https://rcalixto.blog/)",
+      "Bash(curl -sI --max-time 10 http://rcalixto.blog/)",
+      "Bash(timeout 10 openssl s_client -connect rcalixto.blog:443 -servername rcalixto.blog)",
+      "Bash(curl -sI --max-time 10 --resolve rcalixto.blog:443:185.199.108.153 https://rcalixto.blog/ -k)",
+      "Bash(timeout 10 openssl s_client -connect 185.199.108.153:443 -servername rcalixto.blog)",
+      "Bash(openssl x509 *)",
+      "Bash(timeout 15 openssl s_client -connect 185.199.108.153:443 -servername rcalixto.blog)",
+      "Bash(curl -sI --max-time 10 http://rcalixto.blog/.well-known/acme-challenge/test)",
+      "Bash(openssl s_client -connect rcalixto.blog:443 -servername rcalixto.blog)",
+      "Bash(curl -s --max-time 10 https://rcalixto.blog/)",
+      "Bash(curl -sI --max-time 10 https://robsoncalixto.github.io/blog/)",
+      "Bash(curl -sI --max-time 10 https://rcalixto.blog/blog/)",
+      "Bash(curl -sI --max-time 10 https://rcalixto.blog/posts/)",
+      "Bash(curl -sI --max-time 10 https://rcalixto.blog/posts/first-post/)",
+      "Bash(curl -sI --max-time 10 https://rcalixto.blog/about/)"
+    ]
+  }
+}

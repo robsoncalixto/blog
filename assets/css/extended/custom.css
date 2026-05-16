@@ -1,0 +1,18 @@
+.profile-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 10px 0 18px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  font-size: 13px;
+  padding: 3px 12px;
+  border-radius: 99px;
+  border: 1px solid var(--border);
+  background: var(--tertiary);
+  color: var(--secondary);
+  font-weight: 400;
+}

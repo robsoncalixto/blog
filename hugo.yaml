@@ -15,9 +15,16 @@ languages:
       homeInfoParams:
         Title: "Hi, I'm Robson Calixto"
         Content: |
-          Software architect and tech lead based in São Paulo. I run engineering at [**4Tech**](https://4techs.com.br/), where we build complex software for healthcare and other regulated industries.
+          <div class="profile-chips">
+            <span class="chip">Head of Technology</span>
+            <span class="chip">Harness Engineer</span>
+            <span class="chip">Vibe coding</span>
+            <span class="chip">São Paulo</span>
+          </div>
 
-          This blog is where I think out loud — about architecture decisions, AI systems, leadership, and the lessons from shipping products that actually run in production. Not demos. Not theory for its own sake.
+          I run engineering at [**4Tech**](https://4techs.com.br/), where we build complex software for healthcare and other regulated industries.
+
+          This blog is where I think out loud: architecture decisions, AI systems, leadership, and the lessons from shipping products that actually run in production. Not demos. Not theory for its own sake.
     menu:
       main:
         - identifier: posts
@@ -46,9 +53,16 @@ languages:
       homeInfoParams:
         Title: "Olá, eu sou o Robson Calixto"
         Content: |
-          Arquiteto de software e tech lead em São Paulo. Lidero a engenharia na [**4Tech**](https://4techs.com.br/), onde construímos software complexo para saúde e outros setores regulados.
+          <div class="profile-chips">
+            <span class="chip">Head of Technology</span>
+            <span class="chip">Harness Engineer</span>
+            <span class="chip">Vibe coding</span>
+            <span class="chip">São Paulo</span>
+          </div>
 
-          Aqui penso em voz alta — sobre decisões de arquitetura, sistemas de IA, liderança e as lições de construir produtos que realmente rodam em produção. Nada de demos. Nada de teoria pela teoria.
+          Lidero a engenharia na [**4Tech**](https://4techs.com.br/), onde construímos software complexo para saúde e outros setores regulados.
+
+          Aqui penso em voz alta: decisões de arquitetura, sistemas de IA, liderança e as lições de construir produtos que realmente rodam em produção. Nada de demos. Nada de teoria pela teoria.
     menu:
       main:
         - identifier: posts

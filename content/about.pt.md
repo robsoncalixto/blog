@@ -4,9 +4,9 @@ date: 2026-04-21T00:00:00-03:00
 draft: false
 ---
 
-Sou um arquiteto de software e tech lead que encontrou propósito na interseção entre código, pessoas e criação. Depois de anos buscando algo que realmente me motivasse, encontrei no empreendedorismo o tipo de desafio que me faz acordar ansioso para começar a próxima implementação. É na família que encontro a energia para continuar.
+Sou Head of Technology e encontrei propósito na interseção entre código, pessoas e criação. Harness Engineer e praticante de vibe coding. Depois de anos buscando algo que realmente me motivasse, encontrei no empreendedorismo o tipo de desafio que me faz acordar ansioso para começar a próxima implementação. É na família que encontro a energia para continuar.
 
-Tenho 33 anos, moro em São Paulo e lidero o time de engenharia na [**4Tech**](https://4techs.com.br/) — uma empresa de software que construí com a convicção de que tecnologia existe para devolver tempo e autonomia às pessoas. Nossos clientes nos confiam desafios complexos de software. Lidero arquitetura e entrega no setor de saúde e em outros segmentos, o que me mantém conectado à complexidade real do software corporativo.
+Tenho 33 anos, moro em São Paulo e lidero o time de engenharia na [**4Tech**](https://4techs.com.br/), uma empresa de software que construí com a convicção de que tecnologia existe para devolver tempo e autonomia às pessoas. Nossos clientes nos confiam desafios complexos de software. Lidero arquitetura e entrega no setor de saúde e em outros segmentos, o que me mantém conectado à complexidade real do software corporativo.
 
 ## O que faço
 
@@ -18,11 +18,11 @@ Na 4Tech, estou integrando IA no fluxo de trabalho do time de engenharia para me
 
 ## O que me move
 
-Acredito que **conhecimento só tem valor quando expresso**. Aprendo pelo método CODE — Capturar, Organizar, Destilar, Expressar. Um conceito se torna meu quando o transformo em algo: um post, um projeto, uma palestra, uma solução para um cliente.
+Acredito que **conhecimento só tem valor quando expresso**. Aprendo pelo método CODE: Capturar, Organizar, Destilar, Expressar. Um conceito se torna meu quando o transformo em algo: um post, um projeto, uma palestra, uma solução para um cliente.
 
 Tenho fascínio por sistemas que aprendem e se adaptam. Agentes de IA, algoritmos genéticos, microsserviços que evoluem com o negócio. Vejo padrões na natureza e na tecnologia como faces da mesma lógica.
 
-Minha lente intelectual é a de um **arquiteto pragmático**. Teoria desconectada da prática não me interessa. Tampouco a prática sem fundamentos teóricos sólidos. O que me move é o espaço entre os dois — o momento em que um conceito se transforma em algo que funciona.
+Minha lente intelectual é a de um **arquiteto pragmático**. Teoria desconectada da prática não me interessa. Tampouco a prática sem fundamentos teóricos sólidos. O que me move é o espaço entre os dois: o momento em que um conceito se transforma em algo que funciona.
 
 ## Por que escrevo
 
@@ -36,4 +36,4 @@ Este é o lugar onde penso em voz alta. Sobre decisões de arquitetura, sistemas
 
 > *"Escrever não é usar palavras difíceis para impressionar. É usar palavras simples de uma forma impressionante."*
 >
-> — Sierra Bailey
+> Sierra Bailey
